@@ -1,2 +1,5 @@
 # Computational_Geometry
-Exploration of  computational geometry algorithms and data structures. 
+
+Repo for working through the textbook "Computational Geometry: Algorithms and Applications" by de Berg, Cheong, van Kreveld, and Overmars.
+
+http://www.cs.uu.nl/geobook/
